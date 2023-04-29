@@ -14,7 +14,9 @@ These projects were created with the aim of learning and exploring new areas of 
 - ## [Medical Abstracts Classification](https://github.com/spoluan/PubMed200kRCT_medical_abstracts_classification)
   The Medical Abstracts dataset is a collection of text data consisting of medical abstracts from various research articles. The dataset is categorized into five classes, namely BACKGROUND, CONCLUSIONS, METHODS, OBJECTIVE, and RESULTS, which correspond to different sections of the research articles. This dataset provides a valuable resource for developing natural language processing (NLP) models for text classification and information extraction in the medical domain. In this project, I aim to implement a machine learning model that can accurately classify the medical abstracts into their respective classes.
 
-- ## US Insurance Regression
+- ## [US Insurance Regression](https://github.com/spoluan/USInsurance_regression)
+  The aim of this project is to predict the next charge of health insurance for individuals in the United States using a dataset containing various factors, including age, BMI, smoking status, region, and number of children. The dataset provides valuable insights into the cost of health insurance and allows us to analyze the factors that influence the charges. The prediction of the next charge of health insurance can assist individuals and insurance companies in planning and budgeting for future expenses. In this project, I will use machine learning algorithms to build a model that can accurately predict the next charge of health insurance for individuals based on their demographic and health-related information.
+
 - ## TMDB Movie Recommendation System
 - ## Cats and Dogs Classification
 - ## Flower Classification
