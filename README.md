@@ -17,7 +17,9 @@ These projects were created with the aim of learning and exploring new areas of 
 - ## [US Insurance Regression](https://github.com/spoluan/USInsurance_regression)
   The aim of this project is to predict the next charge of health insurance for individuals in the United States using a dataset containing various factors, including age, BMI, smoking status, region, and number of children. The dataset provides valuable insights into the cost of health insurance and allows us to analyze the factors that influence the charges. The prediction of the next charge of health insurance can assist individuals and insurance companies in planning and budgeting for future expenses. In this project, I will use machine learning algorithms to build a model that can accurately predict the next charge of health insurance for individuals based on their demographic and health-related information.
 
-- ## TMDB Movie Recommendation System
+- ## [TMDB Movie Recommendation System](https://github.com/spoluan/TMDB_5000_Movie_recommendation_system)
+  This project focuses on developing a movie recommendation system using a hybrid approach that combines both content-based and collaborative filtering techniques. The dataset used for this project will include movie titles, genres, and other related features. Content-based filtering will be utilized to analyze the user's movie preferences and recommend similar movies based on their genre, keywords, and taglines. Collaborative filtering will consider the user's movie ratings and suggest highly-rated movies by users with similar preferences. To enhance the accuracy of the system, I will also incorporate a weighted average method. The ultimate goal of this project is to provide an efficient and personalized movie recommendation system that enhances the overall movie watching experience of the user.
+
 - ## Cats and Dogs Classification
 - ## Flower Classification
 - ## IMDB Sentiment Analysis
