@@ -20,8 +20,12 @@ These projects were created with the aim of learning and exploring new areas of 
 - ## [TMDB Movie Recommendation System](https://github.com/spoluan/TMDB_5000_Movie_recommendation_system)
   This project focuses on developing a movie recommendation system using a hybrid approach that combines both content-based and collaborative filtering techniques. The dataset used for this project will include movie titles, genres, and other related features. Content-based filtering will be utilized to analyze the user's movie preferences and recommend similar movies based on their genre, keywords, and taglines. Collaborative filtering will consider the user's movie ratings and suggest highly-rated movies by users with similar preferences. To enhance the accuracy of the system, I will also incorporate a weighted average method. The ultimate goal of this project is to provide an efficient and personalized movie recommendation system that enhances the overall movie watching experience of the user.
 
-- ## Cats and Dogs Classification
+- ## [Cats and Dogs Classification](https://github.com/spoluan/Cat_dogs_classification)
+  In this project, I will be implementing a binary image classification system to differentiate between cats and dogs. The dataset used for this project will consist of a large number of images of cats and dogs, which will be used to train and validate the deep learning model. The goal of this project is to develop an accurate classification system that can effectively distinguish between cats and dogs in real-world images. This project can have many potential applications, such as automatic pet monitoring systems, animal behavior studies, and more. By accurately classifying images of cats and dogs, this project can contribute to advancements in computer vision technology and improve the accuracy and efficiency of various related applications.
+
+
 - ## Flower Classification
 - ## IMDB Sentiment Analysis
 - ## Fashion MNIST classification
 - ## Digits MNIST classification
+- ## Food 101 Classification
