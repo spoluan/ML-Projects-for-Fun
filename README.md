@@ -11,7 +11,9 @@ These projects were created with the aim of learning and exploring new areas of 
 - ## [Smart Basket](https://github.com/spoluan/rpi-smart-wastebasket)
   The Smart Basket project is a unique approach to waste management. By utilizing the distinct sound that each piece of trash creates when it falls into the basket, the project aims to classify the type of trash being discarded. To achieve this, multiple microphones are placed underneath the basket to record the sound, triggered by ultrasonic sensors at the mouth of the basket. The collected data is then processed using a combination of Conv1D and LSTM neural networks to train the trash classification model. The project was developed for a competition and has been implemented on a Raspberry Pi with an accuracy rate of over 90%. The Smart Basket project offers a promising solution for automated waste sorting, reducing the need for manual sorting and increasing recycling rates.
 
-- ## Medical Abstracts Classification
+- ## [Medical Abstracts Classification](https://github.com/spoluan/PubMed200kRCT_medical_abstracts_classification)
+  The Medical Abstracts dataset is a collection of text data consisting of medical abstracts from various research articles. The dataset is categorized into five classes, namely BACKGROUND, CONCLUSIONS, METHODS, OBJECTIVE, and RESULTS, which correspond to different sections of the research articles. This dataset provides a valuable resource for developing natural language processing (NLP) models for text classification and information extraction in the medical domain. In this project, I aim to implement a machine learning model that can accurately classify the medical abstracts into their respective classes.
+
 - ## US Insurance Regression
 - ## TMDB Movie Recommendation System
 - ## Cats and Dogs Classification
