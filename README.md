@@ -1,6 +1,6 @@
 # Exploring Machine Learning and Deep Learning
 
-These projects were created with the aim of learning and exploring new areas of interest.
+These projects I created with the aim of learning and exploring new areas of interest.
 
 - ## [EUR/USD Forex Market Prediction](https://github.com/spoluan/Forex_market_prediction_EUR_USD)
   Forex is a global marketplace where currencies are bought and sold, with a daily trading volume reaching trillions of dollars, making it the largest and most liquid financial market. Forex trading involves speculating on fluctuations in exchange rates between different currency pairs, such as EUR/USD and GBP/JPY. EUR/USD is one of the most actively traded currency pairs, representing the exchange rate between the Euro and the US Dollar. The exchange rate between these currencies is influenced by economic indicators, political events, central bank policies, and market sentiment. Traders and investors analyze historical price data and use technical and fundamental analysis techniques to predict future movements in the EUR/USD exchange rate. In this project, a Conv1D model with a MultiHeadAttention layer is used for predicting the future price of this time series data.
@@ -24,7 +24,9 @@ These projects were created with the aim of learning and exploring new areas of 
   In this project, I will be implementing a binary image classification system to differentiate between cats and dogs. The dataset used for this project will consist of a large number of images of cats and dogs, which will be used to train and validate the deep learning model. The goal of this project is to develop an accurate classification system that can effectively distinguish between cats and dogs in real-world images. This project can have many potential applications, such as automatic pet monitoring systems, animal behavior studies, and more. By accurately classifying images of cats and dogs, this project can contribute to advancements in computer vision technology and improve the accuracy and efficiency of various related applications.
 
 
-- ## Flower Classification
+- ## [Flower Classification](https://github.com/spoluan/FlowerClassification)
+  In this project, I will be implementing a flower classification system. The system will use deep learning techniques to identify different species of flowers based on their images. The dataset used for this project will consist of images of various flowers, including daisies, roses, sunflowers, and tulips. The goal of this project is to build a model that accurately classifies images of flowers, which can be useful in fields such as agriculture, botany, and horticulture.  
+
 - ## IMDB Sentiment Analysis
 - ## Fashion MNIST classification
 - ## Digits MNIST classification
