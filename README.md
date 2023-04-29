@@ -26,8 +26,9 @@ These projects I created with the aim of learning and exploring new areas of int
 
 - ## [Flower Classification](https://github.com/spoluan/FlowerClassification)
   In this project, I will be implementing a flower classification system. The system will use deep learning techniques to identify different species of flowers based on their images. The dataset used for this project will consist of images of various flowers, including daisies, roses, sunflowers, and tulips. The goal of this project is to build a model that accurately classifies images of flowers, which can be useful in fields such as agriculture, botany, and horticulture.  
+ 
+- ## [Fashion MNIST classification](https://github.com/spoluan/Fashion_mnist_classification)
+  Fashion MNIST classification is a project that involves the classification of different types of clothing items using machine learning algorithms. The Fashion MNIST dataset consists of 70,000 grayscale images of clothing items that are 28x28 pixels in size. The dataset is divided into 60,000 training images and 10,000 test images, with each image belonging to one of 10 different categories such as T-shirt/top, trouser, pullover, dress, coat, sandal, shirt, sneaker, bag, and ankle boot. The goal of this project is to build a machine learning model that can accurately classify the different clothing items based on the provided images. This project is suitable for beginners in machine learning and provides a great opportunity to apply different classification algorithms and evaluate their performance.
 
-- ## IMDB Sentiment Analysis
-- ## Fashion MNIST classification
 - ## Digits MNIST classification
 - ## Food 101 Classification
