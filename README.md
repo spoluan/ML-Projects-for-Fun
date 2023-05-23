@@ -8,7 +8,7 @@ These projects I created with the aim of learning and exploring new areas of int
 - ## [Federated Learning for MNIST Digits](https://github.com/spoluan/federated_learning_mnistdigit)
   Federated learning is a decentralized machine learning approach that enables training models without requiring data to be centralized in one location. Instead, the learning process takes place on the edge devices or local servers where the data is generated. This collaborative method offers privacy, as the data remains on the devices, and allows for efficient training on a large scale. With federated learning, models are trained across distributed devices, and only the model updates are shared, ensuring privacy and preserving data locality.
 
-- ## [Transforming VGG16 into U-Net for Deep Learning-Based Segmentation of Oxford-IIIT Pet Dataset](https://github.com/spoluan/semantic-segmentation-Oxford-IIIT-Pet)
+- ## [Decentralized and Privacy-Preserving Machine Learning: Exploring the Power of Federated Learning](https://github.com/spoluan/semantic-segmentation-Oxford-IIIT-Pet)
   In this project, I'll delve into deep learning-based segmentation, specifically focusing on the Oxford-IIIT Pet dataset. This dataset boasts a vast collection of meticulously annotated images featuring adorable cats and dogs. To tackle this task, I'll take the VGG16 model and give it a makeover to align with the U-Net architecture.
 
 - ## [Visualizing Pneumonia Detection in Chest X-Ray Images: Enhancing Transparency and Understanding with Explainable AI using Grad-CAM and VGG19](https://github.com/spoluan/eXplainable_ai_pneumonia)
