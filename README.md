@@ -8,6 +8,12 @@ These projects I created with the aim of learning and exploring new areas of int
 - ## [Federated Learning for MNIST Digits](https://github.com/spoluan/federated_learning_mnistdigit)
   Federated learning is a decentralized machine learning approach that enables training models without requiring data to be centralized in one location. Instead, the learning process takes place on the edge devices or local servers where the data is generated. This collaborative method offers privacy, as the data remains on the devices, and allows for efficient training on a large scale. With federated learning, models are trained across distributed devices, and only the model updates are shared, ensuring privacy and preserving data locality.
 
+- ## [Transforming VGG16 into U-Net for Deep Learning-Based Segmentation of Oxford-IIIT Pet Dataset](https://github.com/spoluan/semantic-segmentation-Oxford-IIIT-Pet)
+  In this project, I'll delve into deep learning-based segmentation, specifically focusing on the Oxford-IIIT Pet dataset. This dataset boasts a vast collection of meticulously annotated images featuring adorable cats and dogs. To tackle this task, I'll take the VGG16 model and give it a makeover to align with the U-Net architecture.
+
+- ## [Visualizing Pneumonia Detection in Chest X-Ray Images: Enhancing Transparency and Understanding with Explainable AI using Grad-CAM and VGG19](https://github.com/spoluan/eXplainable_ai_pneumonia)
+  Explainable AI enhances transparency and understanding in AI models by shedding light on their decision-making process. One technique, Grad-CAM (Gradient-weighted Class Activation Mapping), allows us to visualize the crucial regions in Chest X-Ray Images for Pneumonia detection that contribute to the model's decisions. This technique helps medical professionals, researchers, and patients better comprehend how the AI model identifies pneumonia signs, providing valuable insights into its diagnostic process.
+
 - ## [Exploring Reinforcement Learning: Implementing Various Approaches on OpenAI Gym Tasks](https://github.com/spoluan/reinforcement_learning)
   Reinforcement learning is a type of machine learning that focuses on training agents to make decisions in an environment in order to maximize a reward signal. In other words, reinforcement learning involves training an agent to learn by trial and error, through interaction with its environment. In this repository, I implement several approaches to reinforcement learning on different tasks using the OpenAI Gym simulation environment.
 
@@ -57,6 +63,4 @@ These projects I created with the aim of learning and exploring new areas of int
 
 - ## [Next Word Prediction in Medium Titles: Language Modeling Using LSTM for Improved Search Query Suggestions](https://github.com/spoluan/MEDIUM_pred_next_words)
   In this project, I will be implementing a language modeling task of predicting the next words in Medium post titles. The Medium dataset, which can be downloaded from Kaggle, will be used for this purpose. The objective is to develop a deep learning model that can accurately predict the next words given the context of the post title. The focus will be on predicting the title only, assuming that users will type it in the search bar, and the model will suggest the most probable sentences that the user may type. This project aims to improve the user experience by suggesting relevant and accurate search queries.
-
-- ## [Transforming VGG16 into U-Net for Deep Learning-Based Segmentation of Oxford-IIIT Pet Dataset](https://github.com/spoluan/semantic-segmentation-Oxford-IIIT-Pet)
-  In this project, I'll delve into deep learning-based segmentation, specifically focusing on the Oxford-IIIT Pet dataset. This dataset boasts a vast collection of meticulously annotated images featuring adorable cats and dogs. To tackle this task, I'll take the VGG16 model and give it a makeover to align with the U-Net architecture.
+ 
