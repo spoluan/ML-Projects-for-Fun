@@ -2,6 +2,9 @@
 
 Created for learning purposes.
 
+- ## [Golf Ball Object Detection Using Faster R-CNN](https://github.com/spoluan/golf-ball-detection.git)
+  This project designs a simple object detection model for detecting golf balls using the Detecto library. It uses PyTorch as its base framework and primarily employs the Faster R-CNN model as its core architecture.
+
 - ## [EUR/USD Forex Market Prediction: Conv1D Model with MultiHeadAttention for Exchange Rate Forecasting](https://github.com/spoluan/Forex_market_prediction_EUR_USD)
   Forex is a global marketplace where currencies are bought and sold, with a daily trading volume reaching trillions of dollars, making it the largest and most liquid financial market. Forex trading involves speculating on fluctuations in exchange rates between different currency pairs, such as EUR/USD and GBP/JPY. EUR/USD is one of the most actively traded currency pairs, representing the exchange rate between the Euro and the US Dollar. The exchange rate between these currencies is influenced by economic indicators, political events, central bank policies, and market sentiment. Traders and investors analyze historical price data and use technical and fundamental analysis techniques to predict future movements in the EUR/USD exchange rate. In this project, a Conv1D model with a MultiHeadAttention layer is used for predicting the future price of this time series data.
 
